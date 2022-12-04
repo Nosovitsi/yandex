@@ -1,7 +1,7 @@
 let button = document.querySelector('.button');
 
-function handler() {
+function clicker() {
     alert('люблю Носовицкую');
 }
 
-button.addEventListener("click", handler);
+button.addEventListener("click", clicker);
