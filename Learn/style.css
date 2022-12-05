@@ -1,0 +1,10 @@
+.button {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 80px;
+    border-radius: 10px;
+    /* background: linear-gradient(to top, #fefcea, #f1da36); */
+    background: linear-gradient(90deg, #4c115b, #077de1, #49fce0);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
