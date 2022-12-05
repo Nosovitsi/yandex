@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-weight: normal;
+    text-decoration: none;
 }
 
 body {
@@ -53,4 +54,8 @@ footer{
     flex: 0 0 auto;
     justify-content: center;
     padding-bottom: 30px;
+}
+
+span{
+    text-decoration: underline;
 }
